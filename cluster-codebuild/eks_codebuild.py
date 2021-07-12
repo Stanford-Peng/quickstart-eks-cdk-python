@@ -18,7 +18,7 @@ import os
 from codebuild_custom_resource import CodeBuildObjectResource
 
 # The owner of the GitHub repo to pull from and set up a GitOps webhook against
-github_owner = "aws-quickstart"
+github_owner = "Stanford-Peng"
 
 # The GitHub repo to pull from and set up a GitOps webhook against
 github_repo="quickstart-eks-cdk-python"
